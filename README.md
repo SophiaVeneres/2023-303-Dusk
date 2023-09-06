@@ -37,7 +37,7 @@
 
 ## Tela de ínicio (play): Como o jogo começa. 
 
-![InicioDoJogo](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/5d4b2123-ddb7-4d99-849a-529d70981d65)
+![InicioDoJogo](menu/Assets/frase1dusk.png)
 
 ## Tela de Pause:
 
@@ -45,22 +45,21 @@
 
 ## Pergaminho encontrada no Mapa
 
-![PergaminhoNoMapa](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/5a8cb339-160b-4f93-98e2-97aaf5d80c37)
-
-## Primeiro pergaminho coletado
-
-![PrimeiroPergaminhoColetado](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/62ce7672-1793-4c82-ab68-60a8ac2729a6)
+![PergaminhoNoMapa](menu/Assets/fase1dusk.png)
 
 ## Tela Fase 2
 ![TelaFase2](menu/Assets/frase2dusk.png)
 
 ## Krakatoa
 ![Karakatoa](menu/Assets/fase2dusk.png)
+Caracol-lula inimigo de Dohr
 
 ## Ataques de Tentáculos
 ![Ataque](menu/Assets/tentaculos.png)
 
 ## Escudo
+![Escudo](menu/Assets/Shield_After_Idle.gif)
+Ao apertar a tecla "A", o escudo é ativado
 
 ## Venceu o jogo 
 ![VenceuOJogo](menu/Assets/vencedusk.png)
