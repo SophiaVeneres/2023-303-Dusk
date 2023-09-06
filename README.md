@@ -41,7 +41,7 @@
 
 ## Tela de Pause:
 
-![TelaPause](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/0c49dc64-5c81-4cd3-b455-34b3ed50a9bb)
+![TelaPause](menu/Assets/telaDePause.png)
 
 ## Pergaminho encontrada no Mapa
 
@@ -51,21 +51,16 @@
 
 ![PrimeiroPergaminhoColetado](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/62ce7672-1793-4c82-ab68-60a8ac2729a6)
 
-## Todas os pergaminhos coletados
-
-![TodasAsPocoesColetada](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/8a7557ad-685d-41b6-945a-89a3356753af)
-
-## Tela Final
-
-![Final](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/4b00c377-73f6-4349-aab5-a3dfad0d7bab)
-
 ## Tela Fase 2
-
+![TelaFase2](menu/Assets/frase2dusk.png)
 
 ## Krakatoa
+![Karakatoa](menu/Assets/fase2dusk.png)
 
 ## Ataques de Tentáculos
+![Ataque](menu/Assets/tentaculos.png)
 
 ## Escudo
 
 ## Venceu o jogo 
+![VenceuOJogo](menu/Assets/vencedusk.png)
