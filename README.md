@@ -7,7 +7,7 @@
 -> <a href="https://drive.google.com/drive/folders/16R7NVVO7QTpo4GkZolMvr6zascrFJvBn?usp=sharing" target=_blank>Artes</a><br>
 -> <a href="https://docs.google.com/document/d/1zT4ndzxPSvYztC1vMH6I-v4Z5vSIFPKWgnvQzloJpZY/edit" target=_blank>Roteiro</a><br>
 -> <a href="https://docs.google.com/document/d/1RZ_ua5HROKSYkIR1QPx_zYIoAhEXkRDDkocpV6SrMCA/edit#heading=h.l438tmcgjf58" target=_blank>Fluxo</a><br>
--> <a href="[https://docs.google.com/document/d/1zT4ndzxPSvYztC1vMH6I-v4Z5vSIFPKWgnvQzloJpZY/edit](https://drive.google.com/file/d/15WtAhqv51TijBK8ap3qI81Zm81JyrVPg/view?usp=sharing)" target=_blank>Artigo com informações do Jogo</a><br>
+-> <a href="https://drive.google.com/file/d/15WtAhqv51TijBK8ap3qI81Zm81JyrVPg/view?usp=sharing" target=_blank>Artigo com informações do Jogo</a><br>
 
 
 ## Equipe<br> 
@@ -29,11 +29,11 @@
 
 ## Tela de Opções
 
-![Opcoes](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/6ec11cae-2940-4b45-b20e-2dcce080a5a3)
+![Opcoes](menu/Assets/configdusk.png)
 
 <l> Controles de Acessibilidade e volume.
-<li> Acessibilidade: Legendas, Audios 3D e Daltonismo
-<li> Volume: Sons ambientes e música.
+<li> Acessibilidade: Sem filtro ou filtros para tipos de daltonismo.
+<li> Volume: Som ambiente.
 
 ## Tela de ínicio (play): Como o jogo começa. 
 
@@ -43,15 +43,15 @@
 
 ![TelaPause](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/0c49dc64-5c81-4cd3-b455-34b3ed50a9bb)
 
-## Poção encontrada no Mapa
+## Pergaminho encontrada no Mapa
 
-![PoçãoNoMapa](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/5a8cb339-160b-4f93-98e2-97aaf5d80c37)
+![PergaminhoNoMapa](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/5a8cb339-160b-4f93-98e2-97aaf5d80c37)
 
-## Primeira poção coletada
+## Primeiro pergaminho coletado
 
-![PrimeiraPocaoColetada](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/62ce7672-1793-4c82-ab68-60a8ac2729a6)
+![PrimeiroPergaminhoColetado](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/62ce7672-1793-4c82-ab68-60a8ac2729a6)
 
-## Todas as poções coletadas
+## Todas os pergaminhos coletados
 
 ![TodasAsPocoesColetada](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/8a7557ad-685d-41b6-945a-89a3356753af)
 
@@ -59,10 +59,13 @@
 
 ![Final](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/4b00c377-73f6-4349-aab5-a3dfad0d7bab)
 
+## Tela Fase 2
 
 
+## Krakatoa
 
+## Ataques de Tentáculos
 
+## Escudo
 
-
-
+## Venceu o jogo 
