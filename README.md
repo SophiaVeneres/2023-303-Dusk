@@ -10,7 +10,7 @@
 -> <a href="https://drive.google.com/file/d/15WtAhqv51TijBK8ap3qI81Zm81JyrVPg/view?usp=sharing" target=_blank>Artigo com informações do Jogo</a><br>
 
 ## GAMEPLAY/ACESSIBILIDADE
-<a href="https://drive.google.com/file/d/1VeVsMnY3MS28vXWOrmGq7LfbxNjlmokv/view?usp=sharing"></a>
+<a href="https://drive.google.com/file/d/1VeVsMnY3MS28vXWOrmGq7LfbxNjlmokv/view?usp=sharing">https://drive.google.com/file/d/1VeVsMnY3MS28vXWOrmGq7LfbxNjlmokv/view?usp=sharing</a>
 
 
 ## Equipe<br> 
