@@ -9,6 +9,9 @@
 -> <a href="https://docs.google.com/document/d/1RZ_ua5HROKSYkIR1QPx_zYIoAhEXkRDDkocpV6SrMCA/edit#heading=h.l438tmcgjf58" target=_blank>Fluxo</a><br>
 -> <a href="https://drive.google.com/file/d/15WtAhqv51TijBK8ap3qI81Zm81JyrVPg/view?usp=sharing" target=_blank>Artigo com informações do Jogo</a><br>
 
+## GAMEPLAY/ACESSIBILIDADE
+<a href="https://drive.google.com/file/d/1VeVsMnY3MS28vXWOrmGq7LfbxNjlmokv/view?usp=sharing">
+
 
 ## Equipe<br> 
  <a href="https://github.com/arturgonzaga320" target=_blank>Artur Gonzaga</a>,
